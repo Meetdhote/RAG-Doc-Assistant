@@ -1,0 +1,12 @@
+langchain 
+langchain-community
+pypdf 
+FAISS-cpu 
+transformers 
+sentence-transformers 
+streamlit 
+pinecone-client
+openai==0.28
+python-docx 
+python-pptx 
+pandas

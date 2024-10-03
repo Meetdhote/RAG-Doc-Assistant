@@ -1,0 +1,10 @@
+openai_api_type = "azure"
+openai_api_version = "2024-03-01-preview"
+openai_embeddings_deployment =  "<Your_embedding_deployment>"
+openai_completions_deployment = "<Your_chat_completion_model>"
+openai_embeddings_model = "<Your_embedding_model>"
+
+AZURE_OPENAI_API_KEY = "<Your_AZURE_OPENAI_API_KEY>" 
+
+AZURE_OPENAI_ENDPOINT= "<Your_Endpoint_url>"
+RESOURCE_ENDPOINT = "<Your_Endpoint_url>"
